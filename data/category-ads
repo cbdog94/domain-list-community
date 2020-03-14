@@ -1,22 +1,60 @@
 # This file contains domains that clearly serving ads
 
+include:acfun-ads
+include:adcolony-ads
 include:alibaba-ads
+include:amazon-ads
+include:apple-ads
+include:applovin-ads
 include:baidu-ads
+include:dmm-ads
 include:google-ads
 include:hunantv-ads
+include:inner-active-ads
 include:iqiyi-ads
 include:jd-ads
+include:kuaishou-ads
 include:letv-ads
+include:mopub-ads
+include:mxplayer-ads
 include:netease-ads
+include:ookla-speedtest-ads
+include:pubmatic-ads
 include:sina-ads
+include:sohu-ads
+include:tappx-ads
+include:tencent-ads
+include:uberads-ads
+include:umeng-ads
+include:unity-ads
+include:xiaomitv-ads
+include:yahoo-ads
 include:youku-ads
-
+include:yyets-ads
 
 # Other domains for ads serving
-ad.wang502.com
+51y5.net
+a.adtng.com
+aaxads.com
 ad-srv.net
+ad.api.moji.com
+ad.wang502.com
 adbutter.net
-
+ads.trafficjunky.net
+adtechus.com
+cfts1tifqr.com
+contentabc.com
+img-bss.csdn.net
+imglnkc.com
+imglnkd.com
+ja2.gamersky.com
+jl3.yjaxa.top
+kepler-37b.com
+lqc006.com
+s4yxaqyq95.com
+shhs-ydd8x2.yjrmss.cn
+static.javhd.com
+trafficfactory.biz
 
 # Ads serving for httpool.com
 toboads.com
@@ -27,7 +65,9 @@ ad.unimhk.com
 ysm.yahoo.com
 
 adxprtz.com
-exosrv.com
 exoclick.com
+exosrv.com
 
 cdn.advertserve.com
+cdn.banclip.com
+cdn.tsyndicate.com

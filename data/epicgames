@@ -1,0 +1,5 @@
+epicgames.com
+
+regex:^epicgames-download\d\.akamaized\.net$
+regex:^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
+regex:^epicgames-download\d-\d+\.file\.myqcloud\.com$

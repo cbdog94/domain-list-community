@@ -1,23 +1,55 @@
+95095.com
 alibaba.com
+alibaba-inc.com
 alibabagroup.com
+alibabacorp.com
 alibabaplanet.com
+alibabadns.com
+alibabausercontent.com
 alicdn.com
-aliimg.com.com
+alidns.com
+aliimg.com
 alipay.com
 alipayobjects.com
+aliplus.com
+alisoft.com
 aliyun.com
 aliyun-inc.com
 aliyuncdn.com
 aliyuncs.com
+aliapp.org
+alisports.com
+alimama.com
+dongting.com
+mei.com
+mxhichina.com
+
+sm.cn
+
+cainiao.com
+cainiao.com.cn
+cainiao-inc.com
 
 # Taobao
+1688.com
 taobao.com
+taobao.org
+taopiaopiao.com
 taobaocdn.com
 tbcache.com
 tmall.com
+tmalltv.com
+juhuasuan.com
+lingshoujia.com
+pailitao.com
+etao.com
 
 # Fliggy
 alitrip.com
+feizhu.cn
+feizhu.com
+fliggy.com
+iuynfg.com
 
 # amap
 amap.com
@@ -27,6 +59,8 @@ gaode.com
 
 # Xiami music
 xiami.com
+xiami.fm
 xiami.net
 
 include:alibaba-ads
+include:dingtalk
